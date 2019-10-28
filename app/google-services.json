@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "543958897362",
+    "firebase_url": "https://firestonechat.firebaseio.com",
+    "project_id": "firestonechat",
+    "storage_bucket": "firestonechat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543958897362:android:7cb4d2260ff62c2142530b",
+        "android_client_info": {
+          "package_name": "com.codingwithmitch.firestorechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543958897362-33luqm1eb665r4858ijvhj9lb7hqtl6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7prlLEx15l4mt7zZYApXpbYIZo_h6Qgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543958897362-33luqm1eb665r4858ijvhj9lb7hqtl6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
